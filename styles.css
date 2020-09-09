@@ -1,0 +1,11 @@
+html {
+    box-sizing: border-box;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+body {
+    padding: 0 10%;
+}
